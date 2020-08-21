@@ -2,6 +2,7 @@
 *.swp
 *~
 *.log
+*.tgz
 .DS_Store*
 ehthumbs.db
 Icon?
