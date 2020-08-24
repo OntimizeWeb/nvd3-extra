@@ -2,14 +2,33 @@
   "name": "nvd3-extra",
   "version": "1.0.0",
   "description": "A reusable extra charting library written in d3.js",
-  "url": "https://github.com/novus/nvd3",
+  "keywords": [
+    "angular",
+    "angular6",
+    "angular 6",
+    "framework",
+    "web framework",
+    "material",
+    "angular material",
+    "material components",
+    "ontimize-web-ngx",
+    "ontimizeWeb"
+  ],
+  "homepage":"https: //github.com/OntimizeWeb/nvd3-extra",
+  "url": "https://github.com/OntimizeWeb/nvd3-extra",
+  "bugs": "https://github.com/OntimizeWeb/nvd3-extra/issues",
   "main": "build/nv.d3.extra.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "grunt production"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Imatia S.L",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OntimizeWeb/nvd3-extra.git"
+  },
+  "license": "Apache-2.0",
+  "readmeFilename": "README.md",
   "peerDependencies": {
     "d3": "^3.4.4",
     "nvd3": "1.8.6"
