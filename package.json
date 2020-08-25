@@ -14,7 +14,7 @@
     "ontimize-web-ngx",
     "ontimizeWeb"
   ],
-  "homepage":"https: //github.com/OntimizeWeb/nvd3-extra",
+  "homepage": "https: //github.com/OntimizeWeb/nvd3-extra",
   "url": "https://github.com/OntimizeWeb/nvd3-extra",
   "bugs": "https://github.com/OntimizeWeb/nvd3-extra/issues",
   "main": "build/nv.d3.extra.js",
